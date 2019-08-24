@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # simple request library which support python2.7 and python3.x
 import sys
 import urllib
