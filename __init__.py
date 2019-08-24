@@ -1,1 +1,1 @@
-from .simple_request import simple_request
+from .simple_request import request
